@@ -1,0 +1,7 @@
+requests
+json
+re
+bidi.algorithm 
+arabic_reshaper
+selenium
+bs4
